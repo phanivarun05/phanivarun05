@@ -1,4 +1,8 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phani Varun
+======================================================================================================================================
+
+DevOps Aspirant
+---------------
 I am an aspiring DevOps Engineer dedicated to automating software delivery pipelines and managing scalable cloud infrastructure. My technical foundation includes hands-on experience with Docker containerisation, Kubernetes orchestration, and Infrastructure as Code using Terraform. I focus on bridging the gap between development and operations by building reliable CI/CD pipelines through GitHub Actions and Jenkins. Currently, I am actively deploying microservices architectures and sharpening my cloud skills on the AWS platform. I am eager to bring my passion for automation, continuous monitoring, and system efficiency to a collaborative engineering team.<br>Core languages: Python, C, C++<br>Frameworks: Docker, K8S, Jenkins, Terraform, Ansible, ArgoCD<br>
 
 
