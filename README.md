@@ -1,22 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phani Varun
-======================================================================================================================================
+<div align="center">
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
-DevOps Aspirant
----------------
-I am an aspiring DevOps Engineer dedicated to automating software delivery pipelines and managing scalable cloud infrastructure. My technical foundation includes hands-on experience with Docker containerisation, Kubernetes orchestration, and Infrastructure as Code using Terraform. I focus on bridging the gap between development and operations by building reliable CI/CD pipelines through GitHub Actions and Jenkins. Currently, I am actively deploying microservices architectures and sharpening my cloud skills on the AWS platform. I am eager to bring my passion for automation, continuous monitoring, and system efficiency to a collaborative engineering team.<br>Core languages: Python, C, C++<br>Frameworks: Docker, K8S, Jenkins, Terraform, Ansible, ArgoCD<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=U.V.S+Phani+Varun;DevOps+Aspirant+%40+RVRJC+College;Kubernetes+%7C+Docker+%7C+GitOps;Production+Cloud-Native+Infrastructure;Automating+Reliable+Systems)](https://git.io/typing-svg)
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phani_p_1123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phanivarunuppiretla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanivarunuppiretla05@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=phanivarun05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=phanivarun05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=phanivarun05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/Focus-Kubernetes%20%7C%20GitOps%20%7C%20Cloud--Native-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=phanivarun05&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**DevOps Aspirant** passionate about cloud-native technologies, automation, and building reliable infrastructure. Currently building hands-on experience through personal projects, homelab, and self-paced learning to transition into a professional DevOps role.
+
+I enjoy experimenting with Kubernetes, GitOps workflows, and Infrastructure as Code to understand how modern, scalable systems are designed and operated in production environments.
+
+---
+📈 **Learning Journey & Goals:**
+- Building strong foundations in Kubernetes and container orchestration
+- Practicing GitOps and IaC through real-world style projects
+- Actively working towards **CKA (Certified Kubernetes Administrator)**
+- Aiming to reduce deployment friction and improve system reliability through automation
+- Seeking opportunities to contribute to open source and gain real-world DevOps exposure
+
+---
+## 🛠 Tech Stack
+### ☸️ Core DevOps (Learning & Practicing)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffd54f)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### ⚙️ CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
+
+### 📊 Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+---
+## 🏗 Current Focus
+- Building and managing a **Kubernetes Homelab** for hands-on practice
+- Implementing GitOps workflows using ArgoCD
+- Learning Infrastructure as Code with Terraform
+- Setting up CI/CD pipelines for personal projects
+- Exploring production-grade Kubernetes patterns and best practices
+
+---
+## 📚 Currently Learning
+- **Istio Service Mesh** (traffic management, security, observability)
+- Advanced GitOps practices with ArgoCD
+- Production-grade Kubernetes architecture and troubleshooting
+- Preparing for **CKA Certification**
+- Advanced Terraform and multi-environment IaC patterns
+
+---
+### 🔹 Kubernetes Homelab
+- Self-hosted Kubernetes cluster (single/multi-node)
+- GitOps experimentation with ArgoCD
+- Infrastructure automation using Terraform
+- Observability stack with Prometheus + Grafana
+- Regular failure testing, scaling, and recovery experiments
+- Deploying real applications with proper networking, storage, and security practices
+
+---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanivarun05&theme=chartreuse-dark&hide_border=true" width="48%" />
+</p>
+
+---
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanivarunuppiretla/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phanivarun.in-111111?style=flat&logo=google-chrome&logoColor=white)](https://www.phanivarun.in)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/PUppy19276)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phanivarunuppiretla05@gmail.com)
+
+---
+*Passionate about cloud-native technologies • Building the foundation for a successful DevOps career • Open to mentorship, collaboration, and entry-level opportunities.*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phanivarun05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
