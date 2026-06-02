@@ -1,7 +1,7 @@
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=U.V.S+Phani+Varun;DevOps+Aspirant+%40+RVRJC+College;Kubernetes+%7C+Docker+%7C+GitOps;Production+Cloud-Native+Infrastructure;Automating+Reliable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=U.V.Sai+Phani+Varun;DevOps+Aspirant+%40+RVRJC+College;Kubernetes+%7C+Docker+%7C+GitOps;Production+Cloud-Native+Infrastructure;Automating+Reliable+Systems)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Focus-Kubernetes%20%7C%20GitOps%20%7C%20Cloud--Native-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
