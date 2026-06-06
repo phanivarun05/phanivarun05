@@ -1,7 +1,9 @@
+# Hello Everyone, Phani Varun here ----- DevOps, Cloud, Platform Engineering, IaC, Automation, GitOps
+
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=U.V.Sai+Phani+Varun;DevOps+Aspirant+%40+RVRJC+College;Kubernetes+%7C+Docker+%7C+GitOps;Production+Cloud-Native+Infrastructure;Automating+Reliable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=500&lines=U.V.Sai+Phani+Varun;DevOps+Aspirant+%40+RVRJC+College;Kubernetes+%7C+DevOps+%7C+Cloud)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Focus-Kubernetes%20%7C%20GitOps%20%7C%20Cloud--Native-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
@@ -10,7 +12,7 @@
 ---
 ## 🚀 About Me
 
-**DevOps Aspirant** passionate about cloud-native technologies, automation, and building reliable infrastructure. Currently building hands-on experience through personal projects, homelab, and self-paced learning to transition into a professional DevOps role.
+**DevOps Aspirant** passionate about cloud-native technologies, automation, and building reliable infrastructure. Currently building hands-on experience through personal projects, homelab, and self-paced learning.
 
 I enjoy experimenting with Kubernetes, GitOps workflows, and Infrastructure as Code to understand how modern, scalable systems are designed and operated in production environments.
 
