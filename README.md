@@ -62,7 +62,6 @@ I enjoy experimenting with Kubernetes, GitOps workflows, and Infrastructure as C
 - **Istio Service Mesh** (traffic management, security, observability)
 - Advanced GitOps practices with ArgoCD
 - Production-grade Kubernetes architecture and troubleshooting
-- Preparing for **CKA Certification**
 - Advanced Terraform and multi-environment IaC patterns
 
 ---
